@@ -1,0 +1,12 @@
+{
+	"compile_force_framework": "foundry",
+	"foundry_out_directory": "out",
+	"ignore_compile": true,
+	"skip_clean": true,
+	"filter_paths": "lib|test|script",
+	"solc_disable_warnings": true,
+	"json": "slither-report.json",
+	"exclude_optimization": true,
+	"exclude_informational": true,
+	"detectors_to_exclude": "solc-version,redundant-statements,similar-names,constable-states,immutable-states"
+}
