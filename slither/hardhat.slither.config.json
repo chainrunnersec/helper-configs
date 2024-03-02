@@ -1,0 +1,12 @@
+{
+	"compile_force_framework": "hardhat",
+	"hardhat_cache_directory": "cache",
+	"hardhat_artifacts_directory": "artifacts",
+	"hardhat_ignore_compile": true,
+	"skip_clean": true,
+	"filter_paths": "lib|test|scripts",
+	"solc_disable_warnings": true,
+	"exclude_optimization": true,
+	"exclude_informational": true,
+	"detectors_to_exclude": "solc-version,redundant-statements,similar-names,constable-states,immutable-states"
+}
