@@ -5,7 +5,7 @@
 	"hardhat_ignore_compile": true,
 	"skip_clean": true,
 	"filter_paths": "lib|test|scripts|node_modules",
-	"include_paths: "",
+	"include_paths": "",
 	"solc_disable_warnings": true,
 	"exclude_optimization": true,
 	"exclude_informational": true,
